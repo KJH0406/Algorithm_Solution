@@ -1,4 +1,4 @@
-# [유형] 가장 많이 받은 선물 - 258712(level.1)
+# [리스트] 가장 많이 받은 선물 - 258712(level.1)
 
 ### [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/258712)
 
